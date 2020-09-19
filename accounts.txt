@@ -1,0 +1,2 @@
+Omar 12345678 customer
+Ali 12345678 business_owner
